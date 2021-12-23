@@ -1,6 +1,9 @@
 # 2d-fighting-mulitplayer-
 A 2d multiplayer in Unity. Uses Photon Pun
 
+![selection screen](https://user-images.githubusercontent.com/92766074/147225145-0c0ad1f5-2d5e-400d-9323-50598cd2b785.PNG)
+
+
 External resources used:
 
 Package
