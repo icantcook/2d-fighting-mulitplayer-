@@ -1,5 +1,5 @@
 # 2d-fighting-mulitplayer-
-A 2d multiplayer in Unity. Uses Photon Pun
+A 2d multiplayer in Unity. Uses Photon Pun.
 This is a crude implementation of class based Mortal Kombat styled 2D fighting game. The game currently involves 2 classes with primary attacks. 
 Further development, if undertanken, would furnish them with secondary and ultimate abilities. 
 
